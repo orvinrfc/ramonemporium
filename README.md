@@ -10,9 +10,11 @@ Created by:
 - Josh Basham
 - Orvin Tritama
 
-How to Run:
+<h2> How to Run </h2>:
 - Download and install Docker <a href="https://www.docker.com/products/docker-desktop"> here </a>
 - Open the project folder (preferrably in VSCode)
 - Open the terminal (Ctrl + `) in the directory and run "docker-compose up"
 - Run the program in your favorite browser, first by loading the database in the following URL: "http://localhost/shop/loaddata.jsp"
 - Surf around the web-application in the following URL: "http://localhost/shop"
+
+To checkout the full functionalities of this program, check out our project report <a href="https://github.com/orvinrfc/ramonemporium/blob/main/project-report.pdf"> here </a> ! 
