@@ -15,4 +15,4 @@ How to Run:
 - Open the project folder (preferrably in VSCode)
 - Open the terminal (Ctrl + `) in the directory and run "docker-compose up"
 - Run the program in your favorite browser, first by loading the database in the following URL: "http://localhost/shop/loaddata.jsp"
-- Surf around the web-application in the following URL: "http://localhost/shop.jsp"
+- Surf around the web-application in the following URL: "http://localhost/shop"
