@@ -10,6 +10,9 @@ Created by:
 - Josh Basham
 - Orvin Tritama
 
+To checkout the full functionalities of this program, check out our project report <a href="https://github.com/orvinrfc/ramonemporium/blob/main/project-report.pdf"> here </a> ! 
+If you are feeling adventurous and want to check it out for yourself, follow the few steps below! :)
+
 <h2> How to Run:</h2>
 <ol>
 <li> Download and install Docker <a href="https://www.docker.com/products/docker-desktop"> here </a>
@@ -19,4 +22,4 @@ Created by:
 <li> Surf around the web-application in the following URL: "http://localhost/shop"
 </ol>
 
-To checkout the full functionalities of this program, check out our project report <a href="https://github.com/orvinrfc/ramonemporium/blob/main/project-report.pdf"> here </a> ! 
+
